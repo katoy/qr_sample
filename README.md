@@ -4,7 +4,7 @@
 
 ```text
 flutter 3.6 で QR コードの表示と読み取りのサンプルアプリを作ってください。
-QR コードnすきゃんにはmobile_scanner を使って実装してください。
+QR コードのスキャンにはmobile_scanner を使って実装してください。
 (https://pub.dev/packages/mobile_scanner にあります)
 サンプルアプリのコードが
 https://github.com/juliansteenbakker/mobile_scanner/tree/master/example
